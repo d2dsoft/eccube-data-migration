@@ -21,6 +21,7 @@
 - [Magento to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1031-9605-magento-to-ec-cube-migration-tool.html#/72-entities-1000)
 - [MarketPress to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1032-9606-marketpress-to-ec-cube-migration-tool.html#/72-entities-1000)
 - [OpenCart to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1033-9607-opencart-to-ec-cube-migration-tool.html#/72-entities-1000)
+- [osCMax to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1186-11540-oscmax-to-ec-cube-migration-tool.html#/72-entities-1000)
 - [osCommerce to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1034-9608-oscommerce-to-ec-cube-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1035-9609-oxid-eshop-to-ec-cube-migration-tool.html#/72-entities-1000)
 - [Prestashop to EC-Cube Migration](https://d2d-soft.com/ec-cube-migration/1036-9610-prestashop-to-ec-cube-migration-tool.html#/72-entities-1000)
@@ -56,6 +57,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
